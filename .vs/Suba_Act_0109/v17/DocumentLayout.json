@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\JOY GAME\\Suba_Act#0109\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF7870D9-7875-5F1A-676E-7FAA5D5A1EC7}|Assembly-CSharp.csproj|c:\\users\\user\\joy game\\suba_act#0109\\assets\\jammo-character\\scripts\\movementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF7870D9-7875-5F1A-676E-7FAA5D5A1EC7}|Assembly-CSharp.csproj|solutionrelative:assets\\jammo-character\\scripts\\movementinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovementInput.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\JOY GAME\\Suba_Act#0109\\Assets\\Jammo-Character\\Scripts\\MovementInput.cs",
+              "RelativeDocumentMoniker": "Assets\\Jammo-Character\\Scripts\\MovementInput.cs",
+              "ToolTip": "C:\\Users\\USER\\JOY GAME\\Suba_Act#0109\\Assets\\Jammo-Character\\Scripts\\MovementInput.cs",
+              "RelativeToolTip": "Assets\\Jammo-Character\\Scripts\\MovementInput.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAwwIEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T01:06:16.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
